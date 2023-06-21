@@ -42,7 +42,7 @@ soup3 = BeautifulSoup(page3.text, features='html.parser')
 
 # divs3 = soup3.find_all("div", {'class': ['single-image', 'slick-slide', 'slick-cloned', 'logo-scroll-looper']})
 
-divs3 = soup3.find_all("div", {'class': 'scroll-looper-sec'})
+divs3 = soup3.find_all("div", {'class': ['scroll-looper-sec',  'slick-initialized', 'slick-slider']})
 # print(divs3)
 for div in divs3:
     for element in div.find_all("img"):
