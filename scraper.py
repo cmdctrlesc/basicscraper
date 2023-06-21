@@ -79,7 +79,7 @@ multiline_string = "".join(
         for logo_url in logo_urls
         for name, url in logo_url.items()
     ]
-)  # create a multiline string from dict of image
+)  # create a multiline string of all image urls and brand names
 
 text_file = open("image_urls.txt", "w")
 text_file.write(multiline_string)
