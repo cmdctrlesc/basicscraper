@@ -38,6 +38,11 @@ INSTACART: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Fcustom
 FAIRE: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Finvestors%2Ffaire.svg&w=256&q=100
 OPENSEA: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Finvestors%2Fopensea.svg&w=256&q=100
 ETSY: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Fcustomers%2Fetsy.svg&w=96&q=100
+OPENAI: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Fcustomers%2Fopenai.svg&w=256&q=100
+ADEPT: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Finvestors%2Fadept.png&w=256&q=100
+CARPER: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Finvestors%2Fcarper.png&w=256&q=100
+COHERE: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Finvestors%2Fcohere.svg&w=256&q=100
+STABILITY: https://scale.com/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Finvestors%2Fstability.png&w=256&q=100
 NIKE: https://www.deel.com/hubfs/nike.svg
 DROPBOX: https://www.deel.com/hubfs/dropbox.svg
 SHOPIFY: https://www.deel.com/hubfs/shopify.svg

@@ -29,7 +29,7 @@ page2 = requests.get(url2)
 
 soup2 = BeautifulSoup(page2.text, features="html.parser")
 
-lis = soup2.find_all("li", {"class": "flex justify-center items-center"})
+lis = soup2.find_all("li", {"class": ["flex", "justify-center", "items-center"]})
 for li in lis:
     for element in li.find_all("img"):
         pic_url = element["src"]
